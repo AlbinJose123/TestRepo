@@ -1,3 +1,5 @@
+
+# program to find the fibo series
 num = int(input("Enter a number: "))
 #print("The Fibonacci series : ", end=" ")
 num1 = 0
